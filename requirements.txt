@@ -1,0 +1,8 @@
+mpi4py
+dolfinx
+numpy
+pyvista
+pythreejs
+ipygany
+petsc4py
+ufl
